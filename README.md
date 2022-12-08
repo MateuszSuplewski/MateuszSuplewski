@@ -29,7 +29,7 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszsuplewski&show_icons=true&locale=en&layout=compact"                   alt="mateuszsuplewski" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszsuplewski&show_icons=true&locale=en&layout=compact"                   alt="mateuszsuplewski" />
 </p>
 
 ![Snake animation](https://github.com/MateuszSuplewski/MateuszSuplewski/blob/output/github-contribution-grid-snake.svg)
