@@ -29,7 +29,7 @@
 </p>
 
 
-<p>Grab a cup of tea and sit back as you browse through the projects. </p>
+<p>Grab a cup of :coffee: and sit back as you browse through the projects. </p>
 > PS. You can start with my favorites listed below!
 
 
