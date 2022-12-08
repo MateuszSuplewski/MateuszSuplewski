@@ -29,6 +29,10 @@
 </p>
 
 
+<p>Grab a cup of tea and sit back as you browse through the projects. </p>
+> PS. You can start with my favorites listed below!
+
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszsuplewski&show_icons=true&locale=en&layout=compact"                   alt="mateuszsuplewski" />
 </p>
