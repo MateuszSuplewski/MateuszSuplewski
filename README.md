@@ -28,8 +28,12 @@
 <a href="**https://www.linkedin.com/in/mateusz-suplewski"** target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz suplewski" height="30" width="40" /></a>
 </p>
 
+</br>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszsuplewski&show_icons=true&locale=en&layout=compact"                   alt="mateuszsuplewski" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszsuplewski&show_icons=true&locale=en&layout=compact"                   alt="mateuszsuplewski" />
 </p>
+
+</br>
 
 ![Snake animation](https://github.com/MateuszSuplewski/MateuszSuplewski/blob/output/github-contribution-grid-snake.svg)
